@@ -76,7 +76,7 @@ we'd definitely like to hear from you!
 ### 6. Legal Expertise
 
 We definitely have to address important legal topics! Which data are we allowed to store? Which
-data are we, as developers and operators allowed to see.
+data are we - as developers and operators - allowed to see.
 
 <br/>
 
